@@ -1,2 +1,2 @@
 proxies:
-- {name: 233boy-ss-104.199.255.168, server: 104.199.255.168, port: 14514, type: ss, cipher: 2022-blake3-aes-128-gcm, password: cXX8/xoh1WFfTwcYWbPKPQ==}
+- {name: 233boy-ss-34.81.97.149, server: 34.81.97.149, port: 14514, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: 7dEWnOJ9jTYgMpr6qaAHLDCdnI8dk015/Jdl99T9F40=}
