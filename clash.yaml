@@ -1,2 +1,2 @@
 proxies:
-- {name: 233boy-ss-34.84.99.244, server: 34.84.99.244, port: 14514, type: ss, cipher: 2022-blake3-aes-128-gcm, password: b7I6g7l7fJhBaMInJ+zkzw==}
+- {name: 233boy-ss-amasoid.ddns.net, server: amasoid.ddns.net, port: 14514, type: ss, cipher: 2022-blake3-aes-128-gcm, password: b7I6g7l7fJhBaMInJ+zkzw==}
